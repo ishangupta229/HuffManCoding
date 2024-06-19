@@ -1,9 +1,4 @@
-package org.dk.huffman;
-
-/**
- * This is a class representing a single node
- * in the Huffman tree.
- */
+package HuffManCoding;
 class HuffmanNode implements Comparable<HuffmanNode> {
 	private int sym;
 	private int freq;
