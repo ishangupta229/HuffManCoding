@@ -1,4 +1,4 @@
-package org.dk.huffman;
+package HuffManCoding;
 
 import java.util.*;
 
